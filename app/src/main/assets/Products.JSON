@@ -1,0 +1,65 @@
+{
+
+  "products":[
+{
+  "id": "001",
+  "name":"iWatch",
+  "amount":"$250"
+},
+{
+  "id":"002",
+  "name":"Fastrack Watch",
+  "amount":"$100"
+},
+{
+  "id":"003",
+  "name":"Powerbank",
+  "amount":"$120"
+},
+{
+  "id":"004",
+  "name":"Power Cabel",
+  "amount":"$120"
+},
+    {
+      "id": "005",
+      "name":"iWatch",
+      "amount":"$120"
+    },
+    {
+      "id":"006",
+      "name":"Fastrack Watch",
+      "amount":"$150"
+    },
+    {
+      "id":"007",
+      "name":"Powerbank",
+      "amount":"$110"
+    },
+    {
+      "id":"008",
+      "name":"Power Cabel",
+      "amount":"$130"
+    },
+    {
+      "id": "009",
+      "name":"iWatch",
+      "amount":"$120"
+    },
+    {
+      "id":"010",
+      "name":"Fastrack Watch",
+      "amount":"$150"
+    },
+    {
+      "id":"011",
+      "name":"Powerbank",
+      "amount":"$110"
+    },
+    {
+      "id":"012",
+      "name":"Power Cabel",
+      "amount":"$130"
+    }
+  ]
+}
